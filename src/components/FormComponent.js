@@ -2,6 +2,7 @@ import React from 'react';
 import { withRouter } from "react-router-dom";
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
+import {generateHTMLUrls} from "../scripts/generateHTMLUrls.js";
 
 class FormComponent extends React.Component {
     constructor(props) {
@@ -17,7 +18,14 @@ class FormComponent extends React.Component {
 
     handleSubmit(event) {
         event.preventDefault();
-        this.props.history.push('/uploadHTML/' + this.state.classnames);
+        if (!this.state.classnames.includes("\n")) {
+            this.setState({classnames: [this.state.classnames]})
+        };
+        var urls = generateHTMLUrls(this.state.classnames.split("\n"));
+        this.props.history.push({
+            pathname: '/ut-registration-optimizer/uploadHTML/',
+            state: {urls: urls, classnames: this.state.classnames.split('\n')}
+        });
     }
   
     render() {
