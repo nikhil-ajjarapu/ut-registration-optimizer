@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/ut-registration-optimizer/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ut-registration-optimizer/static/js/main.d4dbe889.chunk.js",
-    "main.js.map": "/ut-registration-optimizer/static/js/main.d4dbe889.chunk.js.map",
-    "runtime-main.js": "/ut-registration-optimizer/static/js/runtime-main.79343638.js",
-    "runtime-main.js.map": "/ut-registration-optimizer/static/js/runtime-main.79343638.js.map",
-    "static/js/2.5b1d1b8a.chunk.js": "/ut-registration-optimizer/static/js/2.5b1d1b8a.chunk.js",
-    "static/js/2.5b1d1b8a.chunk.js.map": "/ut-registration-optimizer/static/js/2.5b1d1b8a.chunk.js.map",
-    "static/js/3.bc956cb6.chunk.js": "/ut-registration-optimizer/static/js/3.bc956cb6.chunk.js",
-    "static/js/3.bc956cb6.chunk.js.map": "/ut-registration-optimizer/static/js/3.bc956cb6.chunk.js.map",
+    "main.js": "/ut-registration-optimizer/static/js/main.7ae2170d.chunk.js",
+    "main.js.map": "/ut-registration-optimizer/static/js/main.7ae2170d.chunk.js.map",
+    "runtime-main.js": "/ut-registration-optimizer/static/js/runtime-main.52801790.js",
+    "runtime-main.js.map": "/ut-registration-optimizer/static/js/runtime-main.52801790.js.map",
+    "static/css/2.150d169a.chunk.css": "/ut-registration-optimizer/static/css/2.150d169a.chunk.css",
+    "static/js/2.cb8b3917.chunk.js": "/ut-registration-optimizer/static/js/2.cb8b3917.chunk.js",
+    "static/js/2.cb8b3917.chunk.js.map": "/ut-registration-optimizer/static/js/2.cb8b3917.chunk.js.map",
+    "static/js/3.0efa3574.chunk.js": "/ut-registration-optimizer/static/js/3.0efa3574.chunk.js",
+    "static/js/3.0efa3574.chunk.js.map": "/ut-registration-optimizer/static/js/3.0efa3574.chunk.js.map",
     "index.html": "/ut-registration-optimizer/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/ut-registration-optimizer/static/css/2.150d169a.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/ut-registration-optimizer/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.5b1d1b8a.chunk.js.LICENSE.txt": "/ut-registration-optimizer/static/js/2.5b1d1b8a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ut-registration-optimizer/static/media/logo.6ce24c58.svg"
+    "static/js/2.cb8b3917.chunk.js.LICENSE.txt": "/ut-registration-optimizer/static/js/2.cb8b3917.chunk.js.LICENSE.txt",
+    "static/media/agg.0fa9fb9c.csv": "/ut-registration-optimizer/static/media/agg.0fa9fb9c.csv"
   },
   "entrypoints": [
-    "static/js/runtime-main.79343638.js",
-    "static/js/2.5b1d1b8a.chunk.js",
+    "static/js/runtime-main.52801790.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.cb8b3917.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.d4dbe889.chunk.js"
+    "static/js/main.7ae2170d.chunk.js"
   ]
 }
